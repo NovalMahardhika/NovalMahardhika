@@ -2,7 +2,8 @@
 
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=novalmahardhika&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=novalmahardhika&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->  
+  <img src="https://github-readme-stats.vercel.app/api?username=novalmahardhika&show_icons=true&locale=en&theme=dracula" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=novalmahardhika&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 <br>
@@ -40,3 +41,15 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
+
+<!-- <h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=novalmahardhika&label=Profile%20views&color=0e75b6&style=flat" alt="novalmahardhika" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=novalmahardhika" alt="novalmahardhika" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p> -->
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=novalmahardhika&show_icons=true&locale=en" alt="novalmahardhika" /></p>
